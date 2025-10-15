@@ -7,8 +7,7 @@ import "./globals.css"
 
 export const metadata: Metadata = {
   title: "Jeffrey Farrell - Full Stack Developer",
-  description: "Portfolio of Jeffrey Farrell, a full-stack web developer based in Dedham, Massachusetts",
-  generator: "v0.app",
+  description: "Portfolio of Jeffrey Farrell, a full-stack web developer based in Dedham, Massachusetts"
 }
 
 export default function RootLayout({
