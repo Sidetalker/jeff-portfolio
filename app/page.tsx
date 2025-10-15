@@ -27,10 +27,10 @@ export default function Home() {
           </p>
 
           <div className="flex flex-col items-center justify-center gap-3 text-base">
-            <a href="/game2.html" className="text-primary hover:underline">
+            <a href="https://linksapprentice2.github.io/game2.html" className="text-primary hover:underline">
               Check out the first game I've made right here.
             </a>
-            <a href="/game3.html" className="text-primary hover:underline">
+            <a href="https://linksapprentice2.github.io/game3.html" className="text-primary hover:underline">
               This is me fooling around with three.js. I'll be updating this "game" continually.
             </a>
             <a
